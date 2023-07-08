@@ -1,10 +1,14 @@
-[
-    {
-        "id_prod": "1234",
-        "nombre": "Super 8",
-        "descripcion": "Oblea bañada en chocolate",
-        "precio": "300",
-        "id_cat": "1",
-        "categoria": "Dulces"
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
