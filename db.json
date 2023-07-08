@@ -1,0 +1,10 @@
+[
+    {
+        "id_prod": "1234",
+        "nombre": "Super 8",
+        "descripcion": "Oblea bañada en chocolate",
+        "precio": "300",
+        "id_cat": "1",
+        "categoria": "Dulces"
+    }
+]
